@@ -13,7 +13,7 @@
         android:textColor="#fff"
         android:background="@color/colorAccent"
         android:id="@+id/uploadImage"
-        android:textSize="20dp"
+        android:textSize="21dp"
         />
 
 
